@@ -25,11 +25,11 @@
 		
 - Refer to the code snippets to know how to calculate the checksum for API.
 	- [Go](https://github.com/gimcool/api-checksum-calc/blob/main/go/checksum.go#L40)
-	- [Javascript](https://https://github.com/gimcool/api-checksum-calc/blob/main/javascript/checksum.js#L27)
-	- [Java](https://https://github.com/gimcool/api-checksum-calc/blob/main/java/checksum.java#L49)
-	- [PHP](https://https://github.com/gimcool/api-checksum-calc/blob/main/php/checksum.php#L27)
-	- [C#](https://https://github.com/gimcool/api-checksum-calc/blob/main/c%23/checksum.cs#L55)
-	- [Python](https://https://github.com/gimcool/api-checksum-calc/blob/main/python/checksum.py#L29)
+	- [Java](https://github.com/gimcool/api-checksum-calc/blob/main/java/checksum.java#L49)
+	- [Javascript](https://github.com/gimcool/api-checksum-calc/blob/main/javascript/checksum.js#L27)
+	- [PHP](https://github.com/gimcool/api-checksum-calc/blob/main/php/checksum.php#L27)
+	- [C#](https://github.com/gimcool/api-checksum-calc/blob/main/c%23/checksum.cs#L55)
+	- [Python](https://github.com/gimcool/api-checksum-calc/blob/main/python/checksum.py#L29)
 
 # Callback Integrity Verification
 
@@ -39,8 +39,8 @@
 
 - Refer to the code snippets to know how to calculate the checksum of the callback.
 	- [Go](https://github.com/gimcool/api-checksum-calc/blob/main/go/checksum.go#L75)
+	- [Java](https://github.com/gimcool/api-checksum-calc/blob/main/java/checksum.java#L90)
 	- [Javascript](https://github.com/gimcool/api-checksum-calc/blob/main/javascript/checksum.js#L62)
-	- [Java](https://https://github.com/gimcool/api-checksum-calc/blob/main/java/checksum.java#L90)
-	- [PHP](https://https://github.com/gimcool/api-checksum-calc/blob/main/php/checksum.php#L62)
-	- [C#](https://https://github.com/gimcool/api-checksum-calc/blob/main/c%23/checksum.cs#L89)
-	- [Python](https://https://github.com/gimcool/api-checksum-calc/blob/main/python/checksum.py#L64)
+	- [PHP](https://github.com/gimcool/api-checksum-calc/blob/main/php/checksum.php#L62)
+	- [C#](https://github.com/gimcool/api-checksum-calc/blob/main/c%23/checksum.cs#L89)
+	- [Python](https://github.com/gimcool/api-checksum-calc/blob/main/python/checksum.py#L64)
